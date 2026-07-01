@@ -3,15 +3,15 @@
    padding: 0;
 }
 
-.cabecalho{
-     padding: 15px 25px;
+.cabecalho {
+    padding: 15px 25px;
 }
 
 .cartao {
- width: 260px;
- height: 200px;
+    width: 260px;
+    height: 200px;
 }
 
 .cartao-imagem{
-      width: 100%;
+    width: 100%;
 }
