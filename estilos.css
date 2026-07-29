@@ -33,7 +33,7 @@ main {
 
 .cabecalho-link{
     color:aliceblue;
-    
+    text-decoration: none;
 }
 
 h1{
