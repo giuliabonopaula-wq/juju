@@ -72,5 +72,6 @@ footer{
 }
    
 section{
-    display: flex;76442
+    display: flex;
+    gap: 16px
 }
