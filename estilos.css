@@ -49,6 +49,11 @@ footer{
 }
 .cartao-interno {
     position: relative;
+    transition: transforn 0.8s;
+}
+
+,cartao:hover .cartao-interno  {
+    transform: rotatey(180deg);
 }
 
 .cartao-frente, .cartao-verso {
@@ -59,4 +64,4 @@ footer{
 }
 
 .cartao-verso
-   transform: rotatey(180dog)
+   transforn: rotatey(180deg)
